@@ -2,6 +2,7 @@
     margin:0;
     border-bottom: 1px solid;
     padding:0;
+    flex-flow: row nowrap;
     
 }
 .navbar-brand {
