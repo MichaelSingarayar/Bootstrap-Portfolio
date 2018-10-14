@@ -1,0 +1,54 @@
+.navbar {
+    margin:0;
+    border-bottom: 1px solid;
+    padding:0;
+    
+}
+.navbar-brand {
+    
+    line-height: auto;
+    background: #4aaaa5;
+}
+
+.jumbotron {
+    box-sizing: content-box;
+    background-color: white;
+    margin: 0px;
+    padding: 0;
+
+}
+h1{
+    color: #4aaaa5;
+}
+img {
+    max-width:50%;
+    max-height:50%;
+    margin: 20px;
+    position: relative;
+    
+  }
+.thumbnail{
+    position: relative;
+    
+}
+.caption{
+    position: absolute;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-right: 20px;
+    top: 45%;
+    left: 10%;
+    
+}
+
+
+
+
+footer {
+    margin:0;
+    border-top: 4px solid;
+    border-color: #4aaaa5;
+    
+}
